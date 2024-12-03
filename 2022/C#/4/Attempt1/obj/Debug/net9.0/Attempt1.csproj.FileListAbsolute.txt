@@ -1,0 +1,14 @@
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/bin/Debug/net9.0/Attempt1
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/bin/Debug/net9.0/Attempt1.deps.json
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/bin/Debug/net9.0/Attempt1.runtimeconfig.json
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/bin/Debug/net9.0/Attempt1.dll
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/bin/Debug/net9.0/Attempt1.pdb
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.AssemblyInfoInputs.cache
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.AssemblyInfo.cs
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.csproj.CoreCompileInputs.cache
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.dll
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/refint/Attempt1.dll
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.pdb
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/Attempt1.genruntimeconfig.cache
+/Users/bekian/Code/practiceProblems/Advent of Code/2022/C#/4/Attempt1/obj/Debug/net9.0/ref/Attempt1.dll
